@@ -1,2 +1,2 @@
 # react-login.reg-app
-In this project i 've uploaded main files which i 've edited or changed/added code else other folder like node modules package.json you will get by default after using npx create-react-app cmd in ur terminal ,along with few more dependencies which you can add according to your project's requirement... 
+In this project i 've uploaded main files which i 've edited or changed/added code else other folder like node modules ,package.json you will get by default after using [npx create-react-app filename -> cd filename ]cmd in ur terminal ,along with few more dependencies which you can add according to your project's requirement... Also here two files index.js and package.json files are backend files else other are front end files..
